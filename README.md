@@ -1,4 +1,4 @@
-# Textile Testimonies: Memory, Solidarity, and the Continuity of Aprilleras 
+# Textile Testimonies: Memory and the Continuity of Aprilleras 
 This is Emily Vo's final project for HIST 2715 A Global South: Chile, the Pacific, and the World. Taught by Professor Raymond Craib, Cornell University (Spring 2025). 
 The primary sources and items are pulled directly from Arpilleras (Colección Del Museo de la Memoria y Los Derechos Humanos) and Tapestries of Hope, Threads of Love (Marjorie Agosín). There are also images/photographs taken by Emily Vo in Valparaiso, Chile. 
 This digital collection serves as a way to discuss arpilleras and their meaning to memory, resistance, political organizing, and art during the dictatorship of Augusto Pinochet in Chile. However, this specific GitHub Repo houses the actual files of the objects and items featured on the digital exhibit (which is in emilyv2002/arpilleras-final-proj). But, this repo also serves as a backup for these files and any PDFs that were used in the creation of the exhibit or in the writings.<br/>
